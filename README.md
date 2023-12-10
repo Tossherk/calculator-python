@@ -34,4 +34,15 @@ And at the end you have to enter the second number you want to for example and b
 
 After you do all these steps the computer will how you the result of the equation 
 
-## Screanshots
+## Screenshots
+
+![Screenshot 1](/photos/Screenshot_add.png) 
+![Screenshot 2](/photos/Screenshot_subtract.png) 
+![Screenshot 3](/photos/Screenshot_divide.png) 
+![Screenshot 4](/photos/Screenshot_multiply.png) 
+![Screenshot 5](/photos/Screenshot_power.png) 
+![Screenshot 6](/photos/Screenshot_root.png) 
+
+## Authors
+
+- [Antonina Poniatowska](https://github.com/Tossherk)
